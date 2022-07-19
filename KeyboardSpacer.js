@@ -12,6 +12,7 @@ import {
   Platform,
   StyleSheet
 } from 'react-native';
+import {ViewPropTypes} from 'deprecated-react-native-prop-types'
 
 const styles = StyleSheet.create({
   container: {
