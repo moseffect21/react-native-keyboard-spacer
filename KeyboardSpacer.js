@@ -8,7 +8,6 @@ import {
   LayoutAnimation,
   View,
   Dimensions,
-  ViewPropTypes,
   Platform,
   StyleSheet
 } from 'react-native';
